@@ -11,3 +11,5 @@ var myClozeCard = new ClozeCard('Sebastian sings the song "Under the Sea" in The
 console.log(myClozeCard.cloze)
 console.log(myClozeCard.fullText)
 console.log(myClozeCard.partial)
+
+var myClozeCard = new ClozeCard('Sebastian sings the song "Under the Sea" in The Little Mermaid', 'Sebaschin')
